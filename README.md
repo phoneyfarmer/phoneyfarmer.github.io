@@ -1,4 +1,4 @@
 # Start Page
 This is just a simple start page for my github site.  
 More to come.
-[Recipes](phoneyfarmer.github.io/Recipes)
+[Beef Stew](phoneyfarmer.github.io/Recipes/beefstew.md))
