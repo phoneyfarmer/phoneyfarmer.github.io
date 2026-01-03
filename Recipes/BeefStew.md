@@ -1,5 +1,5 @@
 # Beef Stew
-
+![Beef Stew](./images/beefstew.jpg)
 from [Serious Eats]()
 
 ### Ingredients
