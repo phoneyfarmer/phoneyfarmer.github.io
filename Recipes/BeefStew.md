@@ -1,5 +1,5 @@
 # Beef Stew
-![Beef Stew](./images/basic_bulgogi.jpg)
+![Beef Stew](./images/basic-bulgogi.jpg)
 from [Serious Eats]()
 
 ### Ingredients
