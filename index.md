@@ -1,3 +1,3 @@
 # Hello World
 This is my landing page
-[Recipes](./BeefStew.md)
+[Recipes](./Recipes/BeefStew.md)
